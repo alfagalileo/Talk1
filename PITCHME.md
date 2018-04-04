@@ -48,7 +48,7 @@ ol {
 </style>
 
 
-# Puntos cuántics
+## Puntos cuánticos
 ### Descripción desde la teoría de sistemas finitos II
 ## <img align="right" src="images/Logo.png" height=300 >
 
