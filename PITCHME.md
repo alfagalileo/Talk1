@@ -48,14 +48,12 @@ ol {
 </style>
 
 
-## ==Puntos cuánticos==
+# Puntos cuántics
 ### Descripción desde la teoría de sistemas finitos II
 ## <img align="right" src="images/Logo.png" height=300 >
-$~$
-$~$
-$~$
-$~$
-$~$
+
+
+
 <small> Andrés Felipe Urquijo </small>
 <small> **Director**: Herbert Vinck Posada</small>
 <small>Mayo 13 de 2017</small>
