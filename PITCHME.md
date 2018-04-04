@@ -50,8 +50,6 @@ ol {
 
 ## Puntos cuánticos
 ### Descripción desde la teoría de sistemas finitos II
-## <img align="right" src="images/Logo.png" height=300 >
-
 
 
 <small> Andrés Felipe Urquijo </small>
