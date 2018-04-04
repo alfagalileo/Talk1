@@ -60,6 +60,7 @@ ol {
 
 
 ---
+
 ### Contenidos
 
 - :ballot_box_with_check: Introducción
@@ -68,7 +69,8 @@ ol {
 - :ballot_box_with_check: Polaritones excitónicos en el punto cuántico.
 
 
-___
+---
+
 #### Introducción
 1. Aproximación de masa efectiva
 (alrededor del punto $\Gamma$)
@@ -82,7 +84,8 @@ $$\phi(\mathbf{r}) = \xi_{\lambda,m}(\mathbf{r})u_\lambda(\mathbf{r})$$
 $$\left[ -\frac{\hbar^2 }{2 m_\lambda} \nabla^2 + U_{\mathrm{conf}}(\mathbf{r}) \right] \xi_{\lambda,n}(\mathbf{r}) = \epsilon^{\lambda,n}\xi_{\lambda,n}(\mathbf{r})$$
 
 
-___
+---
+
 #### N-electrones
 <p class="text">Hamiltoniano para una partícula cargada en un campo magnético en la dirección z y un potencial de confinamiento parabólico: </p>
 
