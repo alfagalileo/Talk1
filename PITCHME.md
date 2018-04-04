@@ -47,12 +47,6 @@ ol {
  }
 </style>
 
-<!--$theme: gaia -->
-<!-- page_number: true-->
-<!-- *template: invert -->
-![bg](images/sky.jpg)
-
-
 
 ## ==Puntos cuánticos==
 ### Descripción desde la teoría de sistemas finitos II
