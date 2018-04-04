@@ -1,3 +1,4 @@
 layout : top-left
 logo : assets/Logo.png
 logo-position : top-right
+slide-numbers : true
