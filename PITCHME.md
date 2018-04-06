@@ -43,12 +43,16 @@ ol {
  }
  
  h4 {
- 	color: #FF851B;
+    color: #FF851B;
+ }
+ 
+ .title {
+    color: #FF851B;
  }
 </style>
 
 ## Puntos cuánticos
-### Descripción desde la teoría de sistemas finitos II
+### <span class="title"> Descripción desde la teoría de sistemas finitos II </span>
 
 <br></br>
 <small> Andrés Felipe Urquijo </small>
