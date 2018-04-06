@@ -1,5 +1,16 @@
-layout : top-left
-logo : assets/Logo.png
-logo-position : top-right
-slide-numbers : true
-mathjax : TeX-MML-AM_HTMLorMML-full
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+theme : sky
+theme-override : assets/css/PITCHME.css
+logo : assets/image/logo.png
+background : assets/image/triangles.svg
+background-size : cover
+background-opacity : 80
+highlight : atom-one-dark
+transition : none
+published : true
+footnote : "GitPitch Pro [ Triangles ] Presentation Template"
