@@ -51,6 +51,7 @@ ol {
  }
 </style>
 
+@title[Introducción]
 ## Puntos cuánticos
 ### <span class="title"> Descripción desde la teoría de sistemas finitos II </span>
 
