@@ -209,12 +209,12 @@ $$l_e = - l_h$$
 
 $$H_I = g\sum_{i} (\hat{a}^\dagger \hat{h}_{\overline{i}} \hat{e}_{i} + a \hat{e}_{i}^\dagger\hat{h}_{i}^\dagger)$$
 
-- :arrow_right: Estados de la forma
+- @fa[arrow_right] Estados de la forma
 
 $$| \Psi \rangle = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle \otimes | n_{h_1}, n_{h_2}, \cdots, n_{h_k} \rangle \otimes | n \rangle$$
 
-- :arrow_right: El hamiltoniano total conmuta con el operador de momento angular toal del sistema
-- :arrow_right: Operador variedad de excitación
+-  @fa[arrow_right] El hamiltoniano total conmuta con el operador de momento angular toal del sistema
+-  @fa[arrow_right] Operador variedad de excitación
 
 $$\hat{N} = \frac{1}{2}\sum_{i}(\hat{e}^\dagger_i \hat{e}_i + \hat{h}^\dagger_i \hat{h}_i ) + \hat{a}^\dagger \hat{a}$$
 
