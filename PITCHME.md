@@ -41,11 +41,11 @@ ol {
  katex:hover {
     font-size: 0.8em !important;
  }
- 
+
  h4 {
     color: #FF851B;
  }
- 
+
  .title {
     color: #FF851B;
  }
@@ -121,11 +121,11 @@ $$\hat{H} =  \frac{\hbar\omega_c}{2}\sum_i^N \left[ \frac{\mathbf{p}_i^2}{2} + \
 ---
 
 #### Segunda cuantización
-<p class="text"> Donde: </p> 
+<p class="text"> Donde: </p>
 
 $$\mathbf{r} = l_B \mathbf{r}' \qquad \mathbf{p} = \frac{\hbar}{l_B} \mathbf{p}'$$
 
-<p class="text"> Base de estados de Fock-Darwin </p> 
+<p class="text"> Base de estados de Fock-Darwin </p>
 
 $$\hat{\Psi} = \sum_{i,\nu=e.h} \varphi_i(\mathbf{r}) \hat{a}_{i\nu} \qquad [\hat{a}_i, \hat{a}^\dagger_j ]_+ = \delta_{i,j}$$
 
@@ -151,7 +151,7 @@ $$|i,j, \cdots \rangle \quad | \quad \sum_i l_i = L$$
 <div align = "center">
 <img class = "image" src="images/plot1.svg" width=600px>
 </div>
-<p class="text" align=center><small> 
+<p class="text" align=center><small>
 <b>Figura</b>: Espectro de energía de un sistema de dos electrones sin incluir la interacción de Coulomb. Base de unipartícula compuesta por 36 estados de Fock-Darwin.
 </small></p>
 
@@ -161,7 +161,7 @@ $$|i,j, \cdots \rangle \quad | \quad \sum_i l_i = L$$
 <div align = "center">
 <img class = "image" src="images/plot2.svg" width=600px >
 </div>
-<p class="text" align=center><small> 
+<p class="text" align=center><small>
 <b>Figura</b>: Espectro de energía de un sistema de dos electrones incluyendo la interacción de Coulomb. Base de unipartícula compuesta por 36 estados de Fock-Darwin.
 </small></p>
 
@@ -171,7 +171,7 @@ $$|i,j, \cdots \rangle \quad | \quad \sum_i l_i = L$$
 <div align = "center">
 <img class = "image" src="images/FD_spectrum.svg" width=600px >
 </div>
-<p class="text" align=center><small> 
+<p class="text" align=center><small>
 <b>Figura</b>: Espectro de energía de un sistema compuesto por 1 electrón. Base de unipartícula compuesta por 36 estados de Fock-Darwin.
 </small></p>
 
@@ -199,7 +199,7 @@ $$+ \frac{\beta}{2} \sum_{\overline{i}\overline{j}\overline{k} \overline{l}} V_{
 
 $$| \Psi \rangle = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle \otimes | n_{h_1}, n_{h_2}, \cdots, n_{h_k} \rangle$$
 
-2. Base electrón-hueco 
+2. Base electrón-hueco
 
 $$l_e = - l_h$$
 
@@ -229,21 +229,21 @@ $$| \mathrm{Npol}\rangle = \sum | N\mathrm{par}, 0\mathrm{ph}\rangle + \sum | N\
 
 
 ---
-#### Resultados 
+#### Resultados
 <div align=center>
 <img src="images/polariton1.svg" width=600px >
 </div>
-<p class="text" align=center><small> 
+<p class="text" align=center><small>
 <b>Figura</b>: Espectro de energía en variedad de excitación Npol = 1,  g = 3.
 </small></p>
 
 
 ---
-#### Resultados 
+#### Resultados
 <div align=center>
 <img src="images/polariton2.svg" width=600px >
 </div>
-<p class="text" align=center><small> 
+<p class="text" align=center><small>
 <b>Figura</b>: Espectro de energía en variedad de excitación Npol = 1,  g = 3.
 </small></p>
 
@@ -264,7 +264,7 @@ $$- \beta(B) \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l
 <div align=center>
 <img class="image" src="images/polariton3.svg" width=600px >
 </div>
-<p class="text" align=center><small> 
+<p class="text" align=center><small>
 <b>Figura</b>: Espectro de energía de un punto cuántico en variedad de excitación Npol = 1,  B = 3T, g = 1 meV, Eg= 417 meV.
 </small></p>
 
