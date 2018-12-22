@@ -84,7 +84,7 @@ $$\phi(\mathbf{r}) = \xi_{\lambda,m}(\mathbf{r})u_\lambda(\mathbf{r})$$
 
 <p class="text">Las funciones de onda de confinamiento cumplen: </p>
 
-$$\left[ -\frac{\hbar^2 }{2 m_\lambda} \nabla^2 + U_{\mathrm{conf}}(\mathbf{r}) \right] \xi_{\lambda,n}(\mathbf{r}) = \epsilon^{\lambda,n}\xi_{\lambda,n}(\mathbf{r})$$
+`\[$\left[ -\frac{\hbar^2 }{2 m_\lambda} \nabla^2 + U_{\mathrm{conf}}(\mathbf{r}) \right] \xi_{\lambda,n}(\mathbf{r}) = \epsilon^{\lambda,n}\xi_{\lambda,n}(\mathbf{r})\]`
 
 
 ---
@@ -96,17 +96,17 @@ $$\left[ -\frac{\hbar^2 }{2 m_\lambda} \nabla^2 + U_{\mathrm{conf}}(\mathbf{r}) 
 
 <p class="text">En el gauge simétrico</p>
 
-$$\mathbf{A}(\mathbf{r}) = \frac{1}{2} \mathbf{B} \times \mathbf{r} \qquad \mathbf{B} = B \mathbf{k}$$
+`\[\mathbf{A}(\mathbf{r}) = \frac{1}{2} \mathbf{B} \times \mathbf{r} \qquad \mathbf{B} = B \mathbf{k}\]`
 
-$$\mathcal{H} =  \frac{\mathbf{p}^2}{2 m} + \frac{1}{2}m\left( \omega_0^2 + \frac{1}{4} \omega_c^2 \right) \mathbf{r}^2 - \frac{1}{2}\omega_c l_z + e \phi(\mathbf{r})$$
+`\[\mathcal{H} =  \frac{\mathbf{p}^2}{2 m} + \frac{1}{2}m\left( \omega_0^2 + \frac{1}{4} \omega_c^2 \right) \mathbf{r}^2 - \frac{1}{2}\omega_c l_z + e \phi(\mathbf{r})\]`
 
 ---
 
 #### N-electrones
 <p class="text">Donde:</p>
 
-- `$\omega_0$` ->  frecuencia del potencial armónico.
-- `$\omega_c$` ->  frecuencia de ciclotrón.
+- `$\omega_0$` frecuencia del potencial armónico.
+- `$\omega_c$` frecuencia de ciclotrón.
 
 <p class="text" style="color: #F012BE;">
 <b>Hamiltoniano para N-electrones</b></p>
@@ -115,7 +115,7 @@ $$\mathcal{H} =  \frac{\mathbf{p}^2}{2 m} + \frac{1}{2}m\left( \omega_0^2 + \fra
 
 <p class="text">Forma adimensional:</p>
 
-$$\hat{H} =  \frac{\hbar\omega_c}{2}\sum_i^N \left[ \frac{\mathbf{p}_i^2}{2} + \frac{\mathbf{r}_i^2}{2} + \frac{\omega_o^2}{\omega_c^2} \mathbf{r}_i^2 + l_{z_i}\right] + \frac{e^2}{\epsilon l_B} \sum_{i < j}^N \frac{1}{|\mathbf{r}_i-\mathbf{r}_j|}$$
+`\[\hat{H} =  \frac{\hbar\omega_c}{2}\sum_i^N \left[ \frac{\mathbf{p}_i^2}{2} + \frac{\mathbf{r}_i^2}{2} + \frac{\omega_o^2}{\omega_c^2} \mathbf{r}_i^2 + l_{z_i}\right] + \frac{e^2}{\epsilon l_B} \sum_{i < j}^N \frac{1}{|\mathbf{r}_i-\mathbf{r}_j|}\]`
 
 
 ---
@@ -123,27 +123,27 @@ $$\hat{H} =  \frac{\hbar\omega_c}{2}\sum_i^N \left[ \frac{\mathbf{p}_i^2}{2} + \
 #### Segunda cuantización
 <p class="text"> Donde: </p>
 
-$$\mathbf{r} = l_B \mathbf{r}' \qquad \mathbf{p} = \frac{\hbar}{l_B} \mathbf{p}'$$
+`\[\mathbf{r} = l_B \mathbf{r}' \qquad \mathbf{p} = \frac{\hbar}{l_B} \mathbf{p}'\]`
 
 <p class="text"> Base de estados de Fock-Darwin </p>
 
-$$\hat{\Psi} = \sum_{i,\nu=e.h} \varphi_i(\mathbf{r}) \hat{a}_{i\nu} \qquad [\hat{a}_i, \hat{a}^\dagger_j ]_+ = \delta_{i,j}$$
+`\[\hat{\Psi} = \sum_{i,\nu=e.h} \varphi_i(\mathbf{r}) \hat{a}_{i\nu} \qquad [\hat{a}_i, \hat{a}^\dagger_j ]_+ = \delta_{i,j}\]`
 
-$$\varphi_i(\mathbf{r}) = C_{n_i,|l|_i} r^{|l|_i} e^{-r^2/2} L_{n_i}^{|l|_i}(r^2) e^{i l_i \theta }$$
+`\[\varphi_i(\mathbf{r}) = C_{n_i,|l|_i} r^{|l|_i} e^{-r^2/2} L_{n_i}^{|l|_i}(r^2) e^{i l_i \theta }\]`
 
-$$\hat{H} = \sum_{i} \frac{\hbar \omega_c}{2} \epsilon_i^{\mathrm{FD}} \hat{e}^\dagger_i\hat{e}_i + \frac{\beta(B)}{2} \sum_{ijkl} V_{ijkl} \hat{e}_i^\dagger \hat{e}_j^\dagger \hat{e}_l \hat{e}_k$$
+`\[\hat{H} = \sum_{i} \frac{\hbar \omega_c}{2} \epsilon_i^{\mathrm{FD}} \hat{e}^\dagger_i\hat{e}_i + \frac{\beta(B)}{2} \sum_{ijkl} V_{ijkl} \hat{e}_i^\dagger \hat{e}_j^\dagger \hat{e}_l \hat{e}_k\]`
 
 
 ---
 #### Segunda cuantización
-- :arrow_right: Base de estados (determinante de slater)
+- Base de estados (determinante de slater)
 
-$$| \Psi \rangle  = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle$$
+`$| \Psi \rangle  = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle$`
 
-- :arrow_right: Estados de N electrones
+- Estados de N electrones
 
-$$[ \hat{H}, \hat{L} ] = 0$$
-$$|i,j, \cdots \rangle \quad | \quad \sum_i l_i = L$$
+`$[ \hat{H}, \hat{L} ] = 0$`
+`$|i,j, \cdots \rangle \quad | \quad \sum_i l_i = L$`
 
 
 ---
