@@ -217,7 +217,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 1. Estados de la forma:
 
-$$| \Psi \rangle = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle \otimes | n_{h_1}, n_{h_2}, \cdots, n_{h_k} \rangle$$
+`\[| \Psi \rangle = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle \otimes | n_{h_1}, n_{h_2}, \cdots, n_{h_k} \rangle \]`
 
 2. Base electrón-hueco
 
