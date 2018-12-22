@@ -77,7 +77,7 @@ Note: Hola
 #### Introducción
 1. Aproximación de masa efectiva
 (alrededor del punto $\Gamma$)
-$$\frac{1}{m_{\mathrm{eff}}} =  \frac{1}{m_0} \left( 1 \pm \frac{2 \mathbf{p}^2}{m_0 E_g} \right)$$
+`\[ \frac{1}{m_{\mathrm{eff}}} =  \frac{1}{m_0} \left( 1 \pm \frac{2 \mathbf{p}^2}{m_0 E_g} \right) \]`
 2. Aproximación de bandas parabólicas, aproximación de dos bandas
 3. Aproximación de función envolvente.
 $$\phi(\mathbf{r}) = \xi_{\lambda,m}(\mathbf{r})u_\lambda(\mathbf{r})$$
@@ -92,7 +92,7 @@ $$\left[ -\frac{\hbar^2 }{2 m_\lambda} \nabla^2 + U_{\mathrm{conf}}(\mathbf{r}) 
 #### N-electrones
 <p class="text">Hamiltoniano para una partícula cargada en un campo magnético en la dirección z y un potencial de confinamiento parabólico: </p>
 
-$$\mathcal{H} = \frac{1}{2 m_0} \left( \mathbf{p} - \frac{e}{c} \mathbf{A}(\mathbf{r})\right)^2 + e \phi(\mathbf{r}) + \frac{1}{2}m \omega_0^2 \mathbf{r}^2$$
+`\[ \mathcal{H} = \frac{1}{2 m_0} \left( \mathbf{p} - \frac{e}{c} \mathbf{A}(\mathbf{r})\right)^2 + e \phi(\mathbf{r}) + \frac{1}{2}m \omega_0^2 \mathbf{r}^2 \]`
 
 <p class="text">En el gauge simétrico</p>
 
@@ -105,13 +105,13 @@ $$\mathcal{H} =  \frac{\mathbf{p}^2}{2 m} + \frac{1}{2}m\left( \omega_0^2 + \fra
 #### N-electrones
 <p class="text">Donde:</p>
 
-- $\omega_0$ ->  frecuencia del potencial armónico.
-- $\omega_c$ ->  frecuencia de ciclotrón.
+- `$\omega_0$` ->  frecuencia del potencial armónico.
+- `$\omega_c$` ->  frecuencia de ciclotrón.
 
 <p class="text" style="color: #F012BE;">
 <b>Hamiltoniano para N-electrones</b></p>
 
-$\hat{H} =  \sum_i^N \left[ \frac{\mathbf{p}_i^2}{2 m} + \frac{1}{2}m\left( \omega_0^2 + \frac{1}{4} \omega_c^2 \right) \mathbf{r}_i^2 - \frac{1}{2}\omega_c l_z \right] +\frac{e^2}{\epsilon} \sum_{i < j}^N \frac{1}{|\mathbf{r}_i-\mathbf{r}_j|}$
+`\[ \hat{H} =  \sum_i^N \left[ \frac{\mathbf{p}_i^2}{2 m} + \frac{1}{2}m\left( \omega_0^2 + \frac{1}{4} \omega_c^2 \right) \mathbf{r}_i^2 - \frac{1}{2}\omega_c l_z \right] +\frac{e^2}{\epsilon} \sum_{i < j}^N \frac{1}{|\mathbf{r}_i-\mathbf{r}_j|} \]`
 
 <p class="text">Forma adimensional:</p>
 
