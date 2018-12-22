@@ -105,7 +105,7 @@ Note: Hola
 @snapend
 
 @snap[west]
-Hamiltoniano para una partícula cargada en un campo magnético en la dirección z y un potencial de confinamiento parabólico:
+<p class="text"> Hamiltoniano para una partícula cargada en un campo magnético en la dirección z y un potencial de confinamiento parabólico:</p>
 
 `\[ \mathcal{H} = \frac{1}{2 m_0} \left( \mathbf{p} - \frac{e}{c} \mathbf{A}(\mathbf{r})\right)^2 + e \phi(\mathbf{r}) + \frac{1}{2}m \omega_0^2 \mathbf{r}^2 \]`
 
