@@ -56,6 +56,7 @@ ol {
 @snapend
 ### <span class="title"> Descripción desde la teoría de sistemas finitos II </span>
 
+@snap[south-east snap-35]
 <br></br>
 <small> Andrés Felipe Urquijo </small>
 <t></t>
@@ -63,6 +64,7 @@ ol {
 <t></t>
 <small>Mayo 13 de 2017</small>
 Note: Hola
+@snapend
 
 ---
 @snap[north-west]
@@ -108,6 +110,7 @@ Note: Hola
 @snap[west span-100]
 Hamiltoniano para una partícula cargada en un campo magnético en la dirección z y un potencial de confinamiento parabólico:
 <br></br>
+
 `\[ \mathcal{H} = \frac{1}{2 m_0} \left( \mathbf{p} - \frac{e}{c} \mathbf{A}(\mathbf{r})\right)^2 + e \phi(\mathbf{r}) + \frac{1}{2}m \omega_0^2 \mathbf{r}^2 \]`
 
 <p class="text">En el gauge simétrico</p>
