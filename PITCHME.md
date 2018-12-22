@@ -100,7 +100,7 @@ Note: Hola
 
 
 ---
-@snap[north-wes]
+@snap[north-west]
 #### N-electrones
 @snapend
 
