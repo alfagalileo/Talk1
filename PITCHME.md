@@ -100,9 +100,12 @@ Note: Hola
 
 
 ---
-
+@snap[north-wes]
 #### N-electrones
-<p class="text">Hamiltoniano para una partícula cargada en un campo magnético en la dirección z y un potencial de confinamiento parabólico: </p>
+@snapend
+
+@snap[midpoint-west]
+Hamiltoniano para una partícula cargada en un campo magnético en la dirección z y un potencial de confinamiento parabólico:
 
 `\[ \mathcal{H} = \frac{1}{2 m_0} \left( \mathbf{p} - \frac{e}{c} \mathbf{A}(\mathbf{r})\right)^2 + e \phi(\mathbf{r}) + \frac{1}{2}m \omega_0^2 \mathbf{r}^2 \]`
 
@@ -111,6 +114,7 @@ Note: Hola
 `\[\mathbf{A}(\mathbf{r}) = \frac{1}{2} \mathbf{B} \times \mathbf{r} \qquad \mathbf{B} = B \mathbf{k}\]`
 
 `\[\mathcal{H} =  \frac{\mathbf{p}^2}{2 m} + \frac{1}{2}m\left( \omega_0^2 + \frac{1}{4} \omega_c^2 \right) \mathbf{r}^2 - \frac{1}{2}\omega_c l_z + e \phi(\mathbf{r})\]`
+@snapend
 
 ---
 
