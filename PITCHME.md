@@ -84,7 +84,7 @@ Note: Hola
 @snapend
 
 @snap[south-west]
-@ol
+@ol[](false)
 - Aproximación de masa efectiva
 (alrededor del punto $\Gamma$)
 `\[ \frac{1}{m_{\mathrm{eff}}} =  \frac{1}{m_0} \left( 1 \pm \frac{2 \mathbf{p}^2}{m_0 E_g} \right) \]`
