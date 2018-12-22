@@ -51,8 +51,9 @@ ol {
  }
 </style>
 
-@title[Introducción]
+@snap[north-west]
 ## Puntos cuánticos
+@snapend
 ### <span class="title"> Descripción desde la teoría de sistemas finitos II </span>
 
 <br></br>
@@ -80,7 +81,7 @@ Note: Hola
 
 ---
 @snap[north-west]
-#### Introducción
+### Introducción
 @snapend
 
 @snap[south-west]
