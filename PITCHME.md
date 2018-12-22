@@ -79,14 +79,18 @@ Note: Hola
 
 
 ---
-
+@snap[north-west]
 #### Introducción
-1. Aproximación de masa efectiva
+@snapend
+
+@ol
+- Aproximación de masa efectiva
 (alrededor del punto $\Gamma$)
 `\[ \frac{1}{m_{\mathrm{eff}}} =  \frac{1}{m_0} \left( 1 \pm \frac{2 \mathbf{p}^2}{m_0 E_g} \right) \]`
-2. Aproximación de bandas parabólicas, aproximación de dos bandas
-3. Aproximación de función envolvente.
+- Aproximación de bandas parabólicas, aproximación de dos bandas
+- Aproximación de función envolvente.
 `$\phi(\mathbf{r}) = \xi_{\lambda,m}(\mathbf{r})u_\lambda(\mathbf{r})$`
+@olend
 
 <p class="text">Las funciones de onda de confinamiento cumplen: </p>
 
