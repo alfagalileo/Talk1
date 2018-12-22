@@ -68,10 +68,14 @@ Note: Hola
 ### Contenidos
 @snapend
 
+@snap[midpoint]
+@ul[squares]
 - Introducción
 - Electrones confinados en potencial de oscilador armónico y en un campo magnético externo.
 - Modelo hamiltoniano del punto cuántico.
 - Polaritones excitónicos en el punto cuántico.
+@ulend
+@snapend
 
 
 ---
