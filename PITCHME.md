@@ -212,7 +212,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 ---
 #### Segunda cuantización
-$$\hat{H}_{exc} = \sum_i (\epsilon_i^e \hat{e}^\dagger_i \hat{e}_i + \epsilon_{\overline{i}}^h \hat{h}^\dagger_{\overline{i}} \hat{h}_{\overline{i}}) + \frac{\beta}{2} \sum_{ijkl} V_{ijkl} \hat{e}^\dagger_i \hat{e}^\dagger_j \hat{e}_l \hat{e}_k$$
+`\[\hat{H}_{exc} = \sum_i (\epsilon_i^e \hat{e}^\dagger_i \hat{e}_i + \epsilon_{\overline{i}}^h \hat{h}^\dagger_{\overline{i}} \hat{h}_{\overline{i}}) + \frac{\beta}{2} \sum_{ijkl} V_{ijkl} \hat{e}^\dagger_i \hat{e}^\dagger_j \hat{e}_l \hat{e}_k\]`
 
 $$+ \frac{\beta}{2} \sum_{\overline{i}\overline{j}\overline{k} \overline{l}} V_{\overline{i}\overline{j}\overline{k} \overline{l}} \hat{h}^\dagger_{\overline{i}} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{h}_{\overline{k}} - \beta \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l}} \hat{e}^\dagger_{i} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{e}_{k}$$
 

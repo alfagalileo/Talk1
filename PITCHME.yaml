@@ -5,3 +5,8 @@
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
 mathjax : TeX-MML-AM_HTMLorMML-full
+theme: simple
+layout: top-left
+
+logo: assets/img/Logo.png
+logo-position: top-right
