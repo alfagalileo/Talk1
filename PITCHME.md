@@ -83,6 +83,7 @@ Note: Hola
 #### Introducción
 @snapend
 
+@snap[south-west]
 @ol
 - Aproximación de masa efectiva
 (alrededor del punto $\Gamma$)
@@ -95,6 +96,7 @@ Note: Hola
 <p class="text">Las funciones de onda de confinamiento cumplen: </p>
 
 `\[\left[ -\frac{\hbar^2 }{2 m_\lambda} \nabla^2 + U_{\mathrm{conf}}(\mathbf{r}) \right] \xi_{\lambda,n}(\mathbf{r}) = \epsilon^{\lambda,n}\xi_{\lambda,n}(\mathbf{r})\]`
+@snapend
 
 
 ---
