@@ -11,4 +11,6 @@ layout: top-left
 logo: assets/img/Logo.png
 logo-position: top-right
 
-footnote : "Departamento de Física-Universidad Nacional de Colombia"
+footnote : "Departamento de Física - Universidad Nacional de Colombia"
+
+loop: true
