@@ -213,7 +213,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 ### Segunda cuantización
 `\[\hat{H}_{exc} = \sum_i (\epsilon_i^e \hat{e}^\dagger_i \hat{e}_i + \epsilon_{\overline{i}}^h \hat{h}^\dagger_{\overline{i}} \hat{h}_{\overline{i}}) + \frac{\beta}{2} \sum_{ijkl} V_{ijkl} \hat{e}^\dagger_i \hat{e}^\dagger_j \hat{e}_l \hat{e}_k\]`
 
-`$+ \frac{\beta}{2} \sum_{\overline{i}\overline{j}\overline{k} \overline{l}} V_{\overline{i}\overline{j}\overline{k} \overline{l}} \hat{h}^\dagger_{\overline{i}} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{h}_{\overline{k}} - \beta \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l}} \hat{e}^\dagger_{i} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{e}_{k}$`
+`\[+ \frac{\beta}{2} \sum_{\overline{i}\overline{j}\overline{k} \overline{l}} V_{\overline{i}\overline{j}\overline{k} \overline{l}} \hat{h}^\dagger_{\overline{i}} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{h}_{\overline{k}} - \beta \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l}} \hat{e}^\dagger_{i} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{e}_{k}\]`
 
 1. Estados de la forma:
 
@@ -221,7 +221,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 2. Base electrón-hueco
 
-$$l_e = - l_h$$
+`\[l_e = - l_h\]`
 
 ---
 #### Interacción radiación materia
@@ -272,10 +272,10 @@ $$| \mathrm{Npol}\rangle = \sum | N\mathrm{par}, 0\mathrm{ph}\rangle + \sum | N\
 
 <p class="text"> En la base de niveles de Landau</p>
 
-$$ \hat{H}_{exc} = \sum_i (\epsilon_i^e \hat{e}^\dagger_i \hat{e}_i + \epsilon_{\overline{i}}^h \hat{h}^\dagger_{\overline{i}} \hat{h}_{\overline{i}}) + \sum_{i,j} \langle i | \mathbf{r}^2 | j \rangle \left( \frac{\omega_0^2}{ \omega_c^e }\hat{e}_i^\dagger \hat{e}_j + \frac{\omega_0^2}{ \omega_c^h }\hat{h}_i^\dagger \hat{h}_j\right)$$
+`\[ \hat{H}_{exc} = \sum_i (\epsilon_i^e \hat{e}^\dagger_i \hat{e}_i + \epsilon_{\overline{i}}^h \hat{h}^\dagger_{\overline{i}} \hat{h}_{\overline{i}}) + \sum_{i,j} \langle i | \mathbf{r}^2 | j \rangle \left( \frac{\omega_0^2}{ \omega_c^e }\hat{e}_i^\dagger \hat{e}_j + \frac{\omega_0^2}{ \omega_c^h }\hat{h}_i^\dagger \hat{h}_j\right) \]`
 
-$$+ \frac{\beta(B)}{2} \sum_{ijkl} V_{ijkl} \hat{e}^\dagger_i \hat{e}^\dagger_j \hat{e}_l \hat{e}_k + \frac{\beta(B)}{2} \sum_{\overline{i}\overline{j}\overline{k} \overline{l}} V_{\overline{i}\overline{j}\overline{k} \overline{l}} \hat{h}^\dagger_{\overline{i}} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{h}_{\overline{k}} $$
-$$- \beta(B) \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l}} \hat{e}^\dagger_{i} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{e}_{k} $$
+`\[ + \frac{\beta(B)}{2} \sum_{ijkl} V_{ijkl} \hat{e}^\dagger_i \hat{e}^\dagger_j \hat{e}_l \hat{e}_k + \frac{\beta(B)}{2} \sum_{\overline{i}\overline{j}\overline{k} \overline{l}} V_{\overline{i}\overline{j}\overline{k} \overline{l}} \hat{h}^\dagger_{\overline{i}} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{h}_{\overline{k}} $$
+$$- \beta(B) \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l}} \hat{e}^\dagger_{i} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{e}_{k} \]`
 
 
 ---
