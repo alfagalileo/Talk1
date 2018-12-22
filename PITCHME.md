@@ -106,7 +106,6 @@ Note: Hola
 
 @snap[west span-100]
 Hamiltoniano para una partícula cargada en un campo magnético en la dirección z y un potencial de confinamiento parabólico:
-<b></b>
 
 `\[ \mathcal{H} = \frac{1}{2 m_0} \left( \mathbf{p} - \frac{e}{c} \mathbf{A}(\mathbf{r})\right)^2 + e \phi(\mathbf{r}) + \frac{1}{2}m \omega_0^2 \mathbf{r}^2 \]`
 
@@ -117,7 +116,8 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 `\[\mathcal{H} =  \frac{\mathbf{p}^2}{2 m} + \frac{1}{2}m\left( \omega_0^2 + \frac{1}{4} \omega_c^2 \right) \mathbf{r}^2 - \frac{1}{2}\omega_c l_z + e \phi(\mathbf{r})\]`
 @snapend
 
----
+
++++
 
 #### N-electrones
 <p class="text">Donde:</p>
