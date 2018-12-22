@@ -80,11 +80,11 @@ Note: Hola
 `\[ \frac{1}{m_{\mathrm{eff}}} =  \frac{1}{m_0} \left( 1 \pm \frac{2 \mathbf{p}^2}{m_0 E_g} \right) \]`
 2. Aproximación de bandas parabólicas, aproximación de dos bandas
 3. Aproximación de función envolvente.
-$$\phi(\mathbf{r}) = \xi_{\lambda,m}(\mathbf{r})u_\lambda(\mathbf{r})$$
+`$\phi(\mathbf{r}) = \xi_{\lambda,m}(\mathbf{r})u_\lambda(\mathbf{r})$`
 
 <p class="text">Las funciones de onda de confinamiento cumplen: </p>
 
-`\[$\left[ -\frac{\hbar^2 }{2 m_\lambda} \nabla^2 + U_{\mathrm{conf}}(\mathbf{r}) \right] \xi_{\lambda,n}(\mathbf{r}) = \epsilon^{\lambda,n}\xi_{\lambda,n}(\mathbf{r})\]`
+`\[\left[ -\frac{\hbar^2 }{2 m_\lambda} \nabla^2 + U_{\mathrm{conf}}(\mathbf{r}) \right] \xi_{\lambda,n}(\mathbf{r}) = \epsilon^{\lambda,n}\xi_{\lambda,n}(\mathbf{r})\]`
 
 
 ---
@@ -180,13 +180,13 @@ $$\phi(\mathbf{r}) = \xi_{\lambda,m}(\mathbf{r})u_\lambda(\mathbf{r})$$
 #### Modelo del excitón en el punto cuántico
 <p class="text"> Hamiltoniano del punto cuántico (cero campo magnético) </p>
 
-$$\hat{H} = \sum_i \frac{1}{2m_e}\left( \mathbf{p}_{e_i} + \frac{e}{c}\mathbf{A}_{e_i} \right)^2 + \frac{1}{2}m_e \omega_0^2 \mathbf{r}_{e_i}^2 + \sum_j \frac{1}{2m_e}\left( \mathbf{p}_{h_j} - \frac{e}{c}\mathbf{A}_{h_j} \right)^2$$
+`\[\hat{H} = \sum_i \frac{1}{2m_e}\left( \mathbf{p}_{e_i} + \frac{e}{c}\mathbf{A}_{e_i} \right)^2 + \frac{1}{2}m_e \omega_0^2 \mathbf{r}_{e_i}^2 + \sum_j \frac{1}{2m_e}\left( \mathbf{p}_{h_j} - \frac{e}{c}\mathbf{A}_{h_j} \right)^2\]`
 
-$$+ \frac{1}{2}m_h \omega_0^2 \mathbf{r}_{h_j}^2 + \frac{e^2}{\epsilon}\left( \sum_{i < j} \frac{1}{|\mathbf{r}_{e_i} - \mathbf{r}_{e_j}|} + \sum_{i < j} \frac{1}{|\mathbf{r}_{h_i} - \mathbf{r}_{h_j}|} - \sum_{i < j} \frac{1}{|\mathbf{r}_{e_i} - \mathbf{r}_{h_j}|}  \right)$$
+`\[+ \frac{1}{2}m_h \omega_0^2 \mathbf{r}_{h_j}^2 + \frac{e^2}{\epsilon}\left( \sum_{i < j} \frac{1}{|\mathbf{r}_{e_i} - \mathbf{r}_{e_j}|} + \sum_{i < j} \frac{1}{|\mathbf{r}_{h_i} - \mathbf{r}_{h_j}|} - \sum_{i < j} \frac{1}{|\mathbf{r}_{e_i} - \mathbf{r}_{h_j}|}  \right)\]`
 
 <p class="text"> En la base de estados de oscilador armónico </p>
 
-$$E_j^{LL} = \frac{\hbar \omega_0}{2}(2 n_j + |l_j|+1 )$$
+`$E_j^{LL} = \frac{\hbar \omega_0}{2}(2 n_j + |l_j|+1 )$`
 
 
 ---
