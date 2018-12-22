@@ -71,7 +71,7 @@ Note: Hola
 ### Contenidos
 @snapend
 
-@snap[midpoint-west]
+@snap[south-west]
 @ul[squares]
 - Introducción
 - Electrones confinados en potencial de oscilador armónico y en un campo magnético externo.
