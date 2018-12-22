@@ -123,8 +123,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 +++
 
-#### N-electrones
-<p class="text">Donde:</p>
+### N-electrones
 
 - `$\omega_0$` frecuencia del potencial armónico.
 - `$\omega_c$` frecuencia de ciclotrón.
@@ -141,7 +140,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 ---
 
-#### Segunda cuantización
+### Segunda cuantización
 <p class="text"> Donde: </p>
 
 `\[\mathbf{r} = l_B \mathbf{r}' \qquad \mathbf{p} = \frac{\hbar}{l_B} \mathbf{p}'\]`
@@ -156,7 +155,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 
 ---
-#### Segunda cuantización
+### Segunda cuantización
 - Base de estados (determinante de slater)
 
 `$| \Psi \rangle  = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle$`
@@ -168,7 +167,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 
 ---
-#### Espectro de energía de 2 electrones
+### Espectro de energía de 2 electrones
 <div align = "center">
 <img class = "image" src="images/plot1.svg" width=600px>
 </div>
@@ -178,7 +177,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 
 ---
-#### Espectro de energía de 2 electrones
+### Espectro de energía de 2 electrones
 <div align = "center">
 <img class = "image" src="images/plot2.svg" width=600px >
 </div>
@@ -188,7 +187,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 
 ---
-#### Espectro de energía de 1 electrón
+### Espectro de energía de 1 electrón
 <div align = "center">
 <img class = "image" src="images/FD_spectrum.svg" width=600px >
 </div>
@@ -198,7 +197,7 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 
 ---
-#### Modelo del excitón en el punto cuántico
+### Modelo del excitón en el punto cuántico
 <p class="text"> Hamiltoniano del punto cuántico (cero campo magnético) </p>
 
 `\[\hat{H} = \sum_i \frac{1}{2m_e}\left( \mathbf{p}_{e_i} + \frac{e}{c}\mathbf{A}_{e_i} \right)^2 + \frac{1}{2}m_e \omega_0^2 \mathbf{r}_{e_i}^2 + \sum_j \frac{1}{2m_e}\left( \mathbf{p}_{h_j} - \frac{e}{c}\mathbf{A}_{h_j} \right)^2\]`
@@ -211,14 +210,14 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 
 
 ---
-#### Segunda cuantización
+### Segunda cuantización
 `\[\hat{H}_{exc} = \sum_i (\epsilon_i^e \hat{e}^\dagger_i \hat{e}_i + \epsilon_{\overline{i}}^h \hat{h}^\dagger_{\overline{i}} \hat{h}_{\overline{i}}) + \frac{\beta}{2} \sum_{ijkl} V_{ijkl} \hat{e}^\dagger_i \hat{e}^\dagger_j \hat{e}_l \hat{e}_k\]`
 
-$$+ \frac{\beta}{2} \sum_{\overline{i}\overline{j}\overline{k} \overline{l}} V_{\overline{i}\overline{j}\overline{k} \overline{l}} \hat{h}^\dagger_{\overline{i}} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{h}_{\overline{k}} - \beta \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l}} \hat{e}^\dagger_{i} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{e}_{k}$$
+`$+ \frac{\beta}{2} \sum_{\overline{i}\overline{j}\overline{k} \overline{l}} V_{\overline{i}\overline{j}\overline{k} \overline{l}} \hat{h}^\dagger_{\overline{i}} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{h}_{\overline{k}} - \beta \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l}} \hat{e}^\dagger_{i} \hat{h}^\dagger_{\overline{j}} \hat{h}_{\overline{l}} \hat{e}_{k}$`
 
 1. Estados de la forma:
 
-$$| \Psi \rangle = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle \otimes | n_{h_1}, n_{h_2}, \cdots, n_{h_k} \rangle$$
+`$| \Psi \rangle = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle \otimes | n_{h_1}, n_{h_2}, \cdots, n_{h_k} \rangle$`
 
 2. Base electrón-hueco
 
