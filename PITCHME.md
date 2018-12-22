@@ -7,7 +7,7 @@
 .text {
     line-height: 1.05;
     font-family: 'Raleway';
-    font-size: 29px;
+    font-size: 20px;
 }
 
 .image {
