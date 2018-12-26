@@ -34,16 +34,12 @@ ol {
   font-size: 29px;
 }
 
-.katex {
-    font-size: 0.1em !important;
- }
-
- katex:hover {
-    font-size: 0.8em !important;
- }
-
  h4 {
     color: #FF851B;
+ }
+
+ p {
+    font-size: 15px;
  }
 
  .title {
