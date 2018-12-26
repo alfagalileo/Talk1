@@ -158,12 +158,12 @@ Hamiltoniano para una partícula cargada en un campo magnético en la dirección
 ### Segunda cuantización
 - Base de estados (determinante de slater)
 
-`$| \Psi \rangle  = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle$`
+`\[ | \Psi \rangle  = | n_{e_1}, n_{e_2}, \cdots, n_{e_k} \rangle \]`
 
 - Estados de N electrones
 
-`$[ \hat{H}, \hat{L} ] = 0$`
-`$|i,j, \cdots \rangle \quad | \quad \sum_i l_i = L$`
+`\[ [ \hat{H}, \hat{L} ] = 0 \]`
+`\[ |i,j, \cdots \rangle \quad | \quad \sum_i l_i = L \]`
 
 
 ---
