@@ -289,13 +289,7 @@ $$- \beta(B) \sum_{ i\overline{j}k \overline{l}} V_{i \overline{j} k \overline{l
 
 
 ---
-<!-- *template: invert -->
-### :books: Bibliografía
-- :book: M. Kira, F. Jahnke, W. Hoyerm and S. Koch, "_Quantum theory of spontaneus emission and coherent effects in semiconductor microstructure_", Progress in Quantum Electronics, vol. 23, no. 6, 1999.
-- :book: M. Kira and S. Koch, "_Semiconductor Quantum Optics_". Cambridge University Press, 2012.
+### Bibliografía
 
-$~$
-$~$
-$~$
-$~$
-# :end:
+- M. Kira, F. Jahnke, W. Hoyerm and S. Koch, "_Quantum theory of spontaneus emission and coherent effects in semiconductor microstructure_", Progress in Quantum Electronics, vol. 23, no. 6, 1999.
+- M. Kira and S. Koch, "_Semiconductor Quantum Optics_". Cambridge University Press, 2012.
